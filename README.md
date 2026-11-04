@@ -1,7 +1,7 @@
 # SPT-Weapon-Build-Screen-Tilt
 This SPT (Single Player Tark... Tushonka) mod unlocks the rotation on tiling your weapon in the build screen allowing for you to angle your weapon upside down or any angle along the left-right and up-down axis's.
 # Requirements
-SPT 4.1.6 (probably other versions too, feel free, have fun testing, and report results with what version)
+SPT 4.1.6 (probably other versions too, have fun testing and report results with what version)
 # Installation
 This mod goes in your SPT/BepinEx/Plugins folder
 # Compatibility
