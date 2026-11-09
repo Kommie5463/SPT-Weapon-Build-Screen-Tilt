@@ -6,7 +6,7 @@ using SPT.Reflection.Patching;
 
 namespace BuildScreenTilt
 {
-    [BepInPlugin("com.kommie.buildscreentilt", "Build Screen Tilt", "1.1.0")]
+    [BepInPlugin("com.kommie.buildscreentilt", "Build Screen Tilt", "1.0.0")]
     public class BuildScreenTiltPlugin : BaseUnityPlugin
     {
         private void Awake()
